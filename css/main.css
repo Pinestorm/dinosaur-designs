@@ -41,7 +41,8 @@ a:hover {
 
 li {
   list-style-type: none;
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: bold;
+  line-height: 1.5;
 
 }
