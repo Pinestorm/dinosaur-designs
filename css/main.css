@@ -1,6 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 h2 {
@@ -13,7 +14,6 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
-  line-height: 1.5;
 }
 
 img {
@@ -43,6 +43,5 @@ li {
   list-style-type: none;
   font-size: 1.1rem;
   font-weight: bold;
-  line-height: 1.5;
 
 }
