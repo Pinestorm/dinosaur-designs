@@ -1,12 +1,12 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  font-family: 'Patua One', cursive;
 }
 
 h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', serif;
 }
 
 figcaption{
@@ -22,7 +22,15 @@ img{
 a,
 a:link{
   color: #793284;
+  font-family: 'Patua One', serif;
 }
 a:hover{
-  color: #b42885
+  color: #b42885;
+  font-family: 'Patua One', serif;
+}
+
+.first{
+  font-size:0.9rem;
+  font-style: italic;
+  text-align: center;
 }
