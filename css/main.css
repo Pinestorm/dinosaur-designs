@@ -10,7 +10,7 @@ h2 {
 }
 
 figcaption {
-  font-size: .7rem;
+  font-size: .9rem;
   font-style: italic;
   text-align: center;
 }
@@ -31,7 +31,7 @@ a:hover {
 }
 
 .first {
-  font-size: .9rem;
+  font-size: 1rem;
   font-style: italic;
   text-align: center;
 }
